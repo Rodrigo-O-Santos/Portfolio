@@ -5,11 +5,11 @@
 # Portfolio
 Meu portfolio de projetos de Data Science
 
-Com experiência generalista em RH e no ensino universitário à distância, busco confrontar ideias e planejamentos através da análise de dados para decisões mais assertivas.
+Com experiência generalista em RH e no ensino universitário à distância, buscando confrontar ideias e planejamentos através da análise de dados para decisões mais assertivas.
 
-Busco aplicar em projetos reais minhas habilidades de análise crítica, comunicação, pensamento lógico e sistêmico e solução de problemas.
+Busco aplicar em projetos reais, minhas habilidades de análise crítica, comunicação, pensamento lógico e sistêmico e solução de problemas.
 
-Graduado em Administração e pós graduado em Gestão Estratégica de Recursos Humanos com experiência 
+Graduado em Administração e pós graduado em Gestão Estratégica de Recursos Humanos. 
 
 
 **Links:**
