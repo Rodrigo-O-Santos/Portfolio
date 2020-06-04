@@ -13,7 +13,7 @@ Graduado em Administração e pós graduado em Gestão Estratégica de Recursos 
 
 
 **Links:**
-* [LinkedIn](linkedin.com/in/rodrigo-de-oliveira-dos-santos-83013425)
+* [LinkedIn](https://www.linkedin.com/in/rodrigo-de-oliveira-dos-santos-83013425)
 * [Medium](https://medium.com/@rodrigoosantosalo)
 
 
