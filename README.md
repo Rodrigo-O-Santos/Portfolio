@@ -21,4 +21,5 @@ Graduado em Administração e pós graduado em Gestão Estratégica de Recursos 
 Veja meus projetos:
 
 * **Airbnb_Hong Kong:** https://bit.ly/2BJwV8C
+* **Airbnb_Rio de Janeiro:** 
 * **Violência no Rio de Janeiro:** https://bit.ly/31wXecO
